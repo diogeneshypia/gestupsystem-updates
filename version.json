@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.1",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v1.1.1/gestupsystem.veiculos.zip",
-  "whats_new": "- Implementado marcador de financiamento. - Correção de bugs. - Melhoria no atualixador."
+  "latest_version": "1.1.2",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v1.1.2/GestupSystem.zip",
+  "whats_new": "-Correção do buscador de cep -Coreeções de bugs."
 }
