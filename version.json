@@ -1,5 +1,5 @@
 {
-  "latest_version": "v1.2.2",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v1.2.2/gestupsystem.veiculos.zip",
-  "whats_new": "Não atualize estamos em teste. "
+  "latest_version": "v2.0.0",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.0.0/gestupsystem.veiculos.zip",
+  "whats_new": "🚀 Novidades da Versão 2.0.0 (A Grande Atualização)\n\n📈 Dashboard e Relatórios\n- Gráficos e Projeção (IA): Novo painel interativo de Fluxo de Caixa que analisa seu histórico e estima o faturamento futuro.\n- DRE Contábil: Exportação em Excel formatada direto para o contador, separando o lucro das despesas da loja.\n\n💸 Financeiro Turbinado\n- Contas Fixas (Recorrentes): Cadastre contas de Água, Luz ou Aluguel e o sistema fará o lançamento automático no vencimento.\n- Módulo de Comissões: Controle de intermediadores com ranking de vendas e cálculo automático de comissão (Fixo ou %).\n- Separação de Custos: Divisão clara entre \"Gastos no Veículo\" e \"Despesas da Loja\".\n\n⚡ Estabilidade e Integrações\n- WhatsApp Ultra-Rápido: Botões agora abrem o aplicativo nativo do PC instantaneamente, com mensagens de cobrança já preenchidas.\n- Sistema Anti-Travamento: Nova rede que impede o computador cliente de congelar caso o servidor seja desligado ou a internet caia.\n- Upload via QR Code: Envie fotos e PDFs da câmera do celular direto para o cadastro do veículo escaneando um código na tela.\n- Assistente de Migração: Trocou de computador? Transfira todo o sistema e as fotos com apenas 1 clique."
 }
