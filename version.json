@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.1.3",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.1.3/gestupsystem.veiculos.zip",
+  "latest_version": "2.0.2",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.0.2/gestupsystem.veiculos.zip",
   "sha256": "212c088eafcf34bae26087bb834bb3a32af74a00f4c2e499d2bfd73c1e118192",
   "whats_new": "Novidades da versão 2.1.3\n\n- Correção na validação de segurança após atualizar o sistema.\n- Correção de permissões da configuração local, evitando bloqueio na abertura.\n- Atualizador e instalador passam a reparar esse acesso automaticamente quando necessário.\n- Melhoria na confiabilidade geral da instalação e atualização.",
   "signature": "ed25519:moWNKtRbLLkaInIHvluiDGkCcecvR3Mb9skDgzQES1FDVhzrAlwETgka/ngLaeis492U6nb5APj1He7XgzEwDg=="
