@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.0.2",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.0.2/gestupsystem.veiculos.zip",
+  "latest_version": "2.1.1",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.1.1/gestupsystem.veiculos.zip",
   "sha256": "71549d39773bec19a0f2fe704434f8c1d8ed91a8eabf900ea589a88536feaa92",
   "whats_new": "Novidades da versão 2.1.0\n\n- Controle financeiro mais completo, com acompanhamento de pagamentos parciais, saldo a receber, lucro previsto e lucro de caixa.\n- Relatórios, gráficos e exportação para contador com informações financeiras mais claras e consistentes.\n- Impressão unificada de fichas, contratos, CRLV e promissórias, organizada na sequência correta.\n- Novo módulo de procurações para veículos, com conferência de dados obrigatórios, poderes selecionáveis e serviços personalizados.\n- Melhorias na velocidade de abertura, estabilidade das telas, gráficos e backups locais.\n- Reforço na segurança de licenças, atualizações e proteção das informações do sistema.",
   "signature": "ed25519:IjPsTsGnFHgWXbmUwBPKPch3eaeaXxHn4OTEZquwuFIIFfSSMUCGEvnlDcbs5ci7BFYVFC3Q69VUmbRq3qiuDg=="
