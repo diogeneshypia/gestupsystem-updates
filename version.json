@@ -1,6 +1,6 @@
 {
-  "latest_version": "2.0.2",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.0.2/gestupsystem.veiculos.zip",
+  "latest_version": "2.1.4",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.1.4/gestupsystem.veiculos.zip",
   "sha256": "be29e324e3c03e08d96c88df4068bf2cb5757087446fdf680c391bf54bb07b1e",
   "whats_new": "Novidades da versão 2.1.4\n\n- Correção de permissões na pasta de dados e no banco local.\n- O atualizador não inicia mais o sistema como administrador.\n- O instalador recupera automaticamente o acesso aos dados quando necessário.\n- Melhoria na abertura do sistema após a atualização.",
   "signature": "ed25519:17cUqpBEC9Dl1/3arHmNzob5ws6uCKOyOCqx6BZYvRhvIoiqJ5WaZrRdCDroh6+X+H9VrAGoX3LYef9vdRLqCg=="
