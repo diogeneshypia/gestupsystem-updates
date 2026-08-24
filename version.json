@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.2",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.0.2/gestupsystem.veiculos.zip",
-  "sha256": "a2f14aa9a15afb5f25740c057353db5ba66734332df9a4d92aa8cc747288fa96",
-  "whats_new": "Novidades da versão 2.1.2\n\n- Instalador mais prático e seguro, com instalação padronizada em C:\\GestUpSystem Veiculos.\n- Atalho na área de trabalho sugerido automaticamente durante a instalação.\n- Ao encontrar o sistema instalado, o instalador identifica se deve atualizar, reparar ou oferecer a desinstalação.\n- Proteção contra instalar uma versão antiga sobre uma versão mais nova.\n- Melhoria na confiabilidade da atualização e da instalação do sistema.",
-  "signature": "ed25519:63mXM8qDMhJHBj15H9bH/pNIlzw2Lsijc7EbZ3XbHlAi/xs6t+kAO3JOF7ck/Cye9QTAl6Wtd0dWFMEgl+I+AQ=="
+  "latest_version": "2.1.3",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.1.3/gestupsystem.veiculos.zip",
+  "sha256": "b84545d9590f30a4f0499ba89f8e3375d9c827acac29909105942b25f4de8c26",
+  "whats_new": "Novidades da versão 2.1.3\n\n- Correção na validação de segurança após atualizar o sistema.\n- Correção de permissões da configuração local, evitando bloqueio na abertura.\n- Atualizador e instalador passam a reparar esse acesso automaticamente quando necessário.\n- Melhoria na confiabilidade geral da instalação e atualização.",
+  "signature": "ed25519:q5j8UhNsdhxS4o/Aj91X0q+YqUM7cnHmnVud6JsVuhwohIPjTUcPA0qSgSKkfN4ChJGzCZH9qha/ij8m51rBBA=="
 }
