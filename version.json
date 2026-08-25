@@ -1,7 +1,7 @@
 {
   "latest_version": "2.1.8",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.1.8/gestupsystem.veiculos.zip",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/V2.1.8/gestupsystem.veiculos.zip",
   "sha256": "51b47897c65197e19d5fab08c2745cf7cdb7da9aac0a0ef6b1877aff138c2ff1",
   "whats_new": "Novidades da versão 2.1.8\n\n- Rede local protegida por TLS e pareamento simples com código temporário de letras e números.\n- Localização automática do servidor e autorização individual de cada computador cliente.\n- Migração de computador por conexão criptografada e controle de acesso aprimorado.\n- Melhorias no controle financeiro, pagamentos parciais de promissórias e atualização dos totais.\n- Relatórios, gráficos, projeções e exportação para contador mais claros e consistentes.\n- Janela universal de visualização e impressão, reunindo ficha, contrato, CRLV e promissórias na ordem correta.\n- Novo módulo de procurações com validação dos dados obrigatórios e serviços personalizados.\n- Melhorias na inicialização, tela splash, lembretes, backups locais e desempenho geral.\n- Instalador com reparo e atualização automática, pasta padronizada e configuração da rede local.\n- Reforços na licença, integridade dos arquivos e segurança das atualizações.",
-  "signature": "ed25519:km+CIfTKJQGXTguZrl8gadgKDmomvm8NHPbvKMqHTzv7+8cJ0Z8Q58OVEUt6NxVKlJjzwxD5rlfVVq9edGGMAQ=="
+  "signature": "ed25519:gt555ON7G9wnSNoafj6tJLrt0ZqyFfg1fSCLyEEQc5uc3xgr3Z9c7KQz2Eq3yqM44hURJ3D/9XfOnsCGKCx7Dw=="
 }
