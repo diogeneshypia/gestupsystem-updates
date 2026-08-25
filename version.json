@@ -1,7 +1,7 @@
 {
   "latest_version": "2.1.9",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/V2.1.9/gestupsystem.veiculos.zip",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/v2.1.9/gestupsystem.veiculos.zip",
   "sha256": "016d26f68c41093617c369b4471c4cc2745f50fc0d647bb11ce10c97e71521a9",
   "whats_new": "Novidades da versão 2.1.9\n\n- Conexão entre servidor e clientes mais estável e protegida por TLS e token individual.\n- Reconexão e novo pareamento facilitados quando o servidor muda de IP ou de rede.\n- Fotos, documentos e CRLV agora trafegam pelo canal seguro entre os computadores.\n- Upload pelo celular protegido por link temporário e exclusivo para o veículo selecionado.\n- Melhorias na abertura, consulta e substituição de mídias nos computadores clientes.\n- Atualizador mais rápido, com validação completa do pacote e restauração automática se a instalação for interrompida.\n- Melhorias nas permissões do Windows, regras de rede privada e recuperação das pastas locais.\n- Correções gerais de estabilidade, compatibilidade e desempenho.",
-  "signature": "ed25519:6VGtb/m29mCypK/ihyo4VfSDyzh6KZQ3leY4IlbfSSAQPUYYpe0LPQWsmvYkJBjLhXRrxTKWVAnFhkjjWuOADw=="
+  "signature": "ed25519:6LXlpYIh1HGrH/81ZMzPD3uEguby0TQ3m8R1aKDkOpGs7+gec16/dMPpPkTgjDc084OyFBhwCo+4lwGk8soIBA=="
 }
