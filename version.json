@@ -1,7 +1,7 @@
 {
-  "latest_version": "2.0.8",
-  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/V2.0.8/gestupsystem.veiculos.zip",
-  "sha256": "51b47897c65197e19d5fab08c2745cf7cdb7da9aac0a0ef6b1877aff138c2ff1",
-  "whats_new": "Novidades da versão 2.1.8\n\n- Rede local protegida por TLS e pareamento simples com código temporário de letras e números.\n- Localização automática do servidor e autorização individual de cada computador cliente.\n- Migração de computador por conexão criptografada e controle de acesso aprimorado.\n- Melhorias no controle financeiro, pagamentos parciais de promissórias e atualização dos totais.\n- Relatórios, gráficos, projeções e exportação para contador mais claros e consistentes.\n- Janela universal de visualização e impressão, reunindo ficha, contrato, CRLV e promissórias na ordem correta.\n- Novo módulo de procurações com validação dos dados obrigatórios e serviços personalizados.\n- Melhorias na inicialização, tela splash, lembretes, backups locais e desempenho geral.\n- Instalador com reparo e atualização automática, pasta padronizada e configuração da rede local.\n- Reforços na licença, integridade dos arquivos e segurança das atualizações.",
-  "signature": "ed25519:gZTpJrYt8EmUMjbys0Me1lPPt6oaCNygcQujhZK3V2kmEmLxv9wCI4aG2fpc9ybFzkO9RXstojxRsEfvykSgCw=="
+  "latest_version": "2.1.9",
+  "download_url": "https://github.com/diogeneshypia/gestupsystem-updates/releases/download/V2.1.9/gestupsystem.veiculos.zip",
+  "sha256": "016d26f68c41093617c369b4471c4cc2745f50fc0d647bb11ce10c97e71521a9",
+  "whats_new": "Novidades da versão 2.1.9\n\n- Conexão entre servidor e clientes mais estável e protegida por TLS e token individual.\n- Reconexão e novo pareamento facilitados quando o servidor muda de IP ou de rede.\n- Fotos, documentos e CRLV agora trafegam pelo canal seguro entre os computadores.\n- Upload pelo celular protegido por link temporário e exclusivo para o veículo selecionado.\n- Melhorias na abertura, consulta e substituição de mídias nos computadores clientes.\n- Atualizador mais rápido, com validação completa do pacote e restauração automática se a instalação for interrompida.\n- Melhorias nas permissões do Windows, regras de rede privada e recuperação das pastas locais.\n- Correções gerais de estabilidade, compatibilidade e desempenho.",
+  "signature": "ed25519:6VGtb/m29mCypK/ihyo4VfSDyzh6KZQ3leY4IlbfSSAQPUYYpe0LPQWsmvYkJBjLhXRrxTKWVAnFhkjjWuOADw=="
 }
